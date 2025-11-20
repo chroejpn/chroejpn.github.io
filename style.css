@@ -76,9 +76,10 @@ th, td {
   padding: 0.5rem;
 }
 
-img {
-width: 35%;
-height: 35%;
+.my-image {
+  width: 300px;
+  height: auto;
 }
+
 
 
